@@ -1,0 +1,5 @@
+**/checkpoint/**
+.idea/*
+class4/MNIST_FC/mnist_image_label/mnist_x_test.npy
+class4/MNIST_FC/mnist_image_label/mnist_x_train.npy
+class5/CIFAR10_CNN/weights.txt
